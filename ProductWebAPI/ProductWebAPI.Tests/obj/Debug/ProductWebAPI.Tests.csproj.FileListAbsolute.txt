@@ -39,3 +39,5 @@ C:\git\katas\ProductWebAPI\ProductWebAPI\ProductWebAPI.Tests\obj\Debug\ProductWe
 C:\git\katas\ProductWebAPI\ProductWebAPI\ProductWebAPI.Tests\obj\Debug\ProductWebAPI.Tests.csproj.CoreCompileInputs.cache
 C:\git\katas\ProductWebAPI\ProductWebAPI\ProductWebAPI.Tests\obj\Debug\ProductWebAPI.Tests.dll
 C:\git\katas\ProductWebAPI\ProductWebAPI\ProductWebAPI.Tests\obj\Debug\ProductWebAPI.Tests.pdb
+C:\git\katas\ProductWebAPI\ProductWebAPI\ProductWebAPI.Tests\bin\Debug\WebActivatorEx.dll
+C:\git\katas\ProductWebAPI\ProductWebAPI\ProductWebAPI.Tests\bin\Debug\Swashbuckle.Core.dll

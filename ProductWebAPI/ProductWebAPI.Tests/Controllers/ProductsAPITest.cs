@@ -13,7 +13,7 @@ using ProductWebAPI.Controllers;
 
 namespace ProductWebAPI.Tests.Controllers
 {
-    public class ProductsControllerTest
+    public class ProductsAPITest
     {
         [Test]
         public void Get()
