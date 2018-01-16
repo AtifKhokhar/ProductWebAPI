@@ -46,3 +46,5 @@ C:\git\katas\ProductWebAPI\ProductWebAPI\ProductWebAPI\obj\Debug\ProductWebAPI.c
 C:\git\katas\ProductWebAPI\ProductWebAPI\ProductWebAPI\obj\Debug\ProductWebAPI.dll
 C:\git\katas\ProductWebAPI\ProductWebAPI\ProductWebAPI\obj\Debug\ProductWebAPI.pdb
 C:\git\katas\ProductWebAPI\ProductWebAPI\ProductWebAPI\obj\Debug\ProductWebAPI.csprojResolveAssemblyReference.cache
+C:\git\katas\ProductWebAPI\ProductWebAPI\ProductWebAPI\bin\Swashbuckle.Core.dll
+C:\git\katas\ProductWebAPI\ProductWebAPI\ProductWebAPI\bin\WebActivatorEx.dll
