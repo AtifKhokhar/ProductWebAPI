@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/ProductWebAPI/.vs/ProductWebAPI/v15/Server/sqlite3/storage.ide-wal
+/ProductWebAPI/.vs/ProductWebAPI/v15/Server/sqlite3/storage.ide-shm
+/ProductWebAPI/.vs/ProductWebAPI/v15/Server/sqlite3/storage.ide

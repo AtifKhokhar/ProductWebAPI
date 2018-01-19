@@ -13,14 +13,20 @@ namespace ProductWebAPI.Controllers
         // GET api/values
         public IHttpActionResult Get()
         {
-            ProductModel productVm = new ProductModel
+            return Ok(ReturnProductModel());
+        }
+
+        private ProductModel ReturnProductModel()
+        {
+            Random random = new Random();
+            int randomNumber = random.Next(0, 100);
+            return new ProductModel
             {
-                prodId = 001,
-                productName = "Elwood Jeans",
-                productDescription = "Tapered Fit",
+                prodId = randomNumber,
+                productName = "Elwood Shirt",
+                productDescription = "Muscle Fit",
                 productBrand = "G-Star Raw"
             };
-            return Ok(productVm);
         }
     }
 }
