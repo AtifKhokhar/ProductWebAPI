@@ -16,7 +16,7 @@ namespace ProductWebAPI.Tests.Controllers
     public class ProductsAPITest
     {
         [Test]
-        public void Get()
+        public void ShouldReturn200OKStatus()
         {
             // Arrange
             HttpWebRequest webRequest = (HttpWebRequest)WebRequest
